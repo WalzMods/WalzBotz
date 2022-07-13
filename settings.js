@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -63,7 +63,7 @@ global.location = "Indonesia, Purwakarta, jawa barat" //ur location
 //bot bomdy 
 global.owner = ['6285899109527']
 global.ownertag = '6285899109527' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'BOTNYA IKHWAL GANTENG' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg" //ur website to be displayed
 global.botscript = 'https://github.com/WalzMods/WalzBotz' //script link
@@ -101,23 +101,23 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = true
+global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    admin: 'HARUS JADI ADMIN ANJ!',
+    botAdmin: 'ADMININ BOT DULU KENTOD!',
+    owner: 'CUMA OWNER DOANG BNGST YG BISA!',
+    group: 'HARUS DI GRUP IDIOT!',
+    private: 'HARUS PRIVATE KONT!',
+    bot: 'FITUR HANYA BUAT BOT',
     wait: 'Sabar ngentod...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    linkm: 'LINKNYA MANA MEMEG ANJ?',
+    error: 'ERROR GOBLOK!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    ban: 'MAMPUS LU DIBANNED GABISA PAKE BOT ANJ AHAHA, KALO MAU DIBUKA CHAT OWNER, chat owner.',
+    nsfw: 'FITUR BOKEP GABISA HARUS JADI ADMIN, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
