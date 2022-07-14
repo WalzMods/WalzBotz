@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -64,7 +64,7 @@ global.location = "Indonesia, Purwakarta, jawa barat" //ur location
 global.owner = ['6285899109527']
 global.ownertag = '6285899109527' //ur tag number
 global.botname = 'BOTNYA IKHWAL GANTENG' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.linkz = "https://youtu.be/cqUFHcCW8YY" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg" //ur website to be displayed
 global.botscript = 'https://github.com/WalzMods/WalzBotz' //script link
 global.reactmoji = "🗿" //ur menu react emoji
